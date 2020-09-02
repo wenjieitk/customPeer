@@ -1,0 +1,22 @@
+{
+  "name": "peerserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://wenjieitk@github.com/wenjieitk/peerServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenjieitk/peerServer/issues"
+  },
+  "homepage": "https://github.com/wenjieitk/peerServer#readme",
+  "dependencies": {
+    "peer": "^0.5.3"
+  }
+}
